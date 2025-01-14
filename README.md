@@ -1,6 +1,5 @@
 # doraemon
-プロジェクトの説明です。
-こういうのを作りたいです。
+みんなの悩みをドラえもんが秘密道具を使って解決してくれるというもの。
 https://github.com/UTokyo-IPP/utokyo-ipp.github.io/blob/master/README.md
 
 # 記述してほしいこと
