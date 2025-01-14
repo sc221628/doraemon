@@ -1,15 +1,13 @@
-# doraemon
+# ドラえもんなんでも相談室
 みんなの悩みをドラえもんが秘密道具を使って解決してくれるというもの。
 https://github.com/UTokyo-IPP/utokyo-ipp.github.io/blob/master/README.md
 
 # 記述してほしいこと
 - ドラえもんなんでも相談室
-- プログラムの概要
-- 動作環境 / 必要条件（Requirements）
-- 使い方
-- 工夫した点
-- 参考にしたサイトがあれば記載
-- 作者名
+- みんなのさまざまな悩みをドラえもんが秘密道具を使って解決してくれるというもの。
+- 動作環境　pyson/tkinter
+- tkinterを使って画面作成をおこなった
+- 悪澤琴望
 
 # 参考
 https://learningift.com/blogs/06d6kcV21i9/github%E3%81%AEreadme%E3%82%92markdown%E8%A8%98%E6%B3%95%E3%81%A7%E6%9B%B8%E3%81%8F
